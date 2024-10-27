@@ -1,5 +1,5 @@
 #include <stdio.h>
 int main() {
-  printf("do while loop\n");
+  printf("Struct\n");
   return 0;
 }
