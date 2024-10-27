@@ -1,4 +1,3 @@
-*  # ignore all files
-!*.c # But don't ignore .c files
-!.gitignore # Don't ignore the .gitignore file itself
-
+*          # Ignore all files
+!*.c       # Exclude .c files from ignore, so they will be tracked
+!.gitignore # Exclude .gitignore file itself from ignore, so it will be tracked
