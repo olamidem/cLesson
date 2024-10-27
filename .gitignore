@@ -1,0 +1,4 @@
+*  # ignore all files
+!*.c # But don't ignore .c files
+!.gitignore # Don't ignore the .gitignore file itself
+
